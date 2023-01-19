@@ -1,0 +1,24 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-direction: column;
+}
+
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 1%;
+}
+
+.gif-form {
+  display: flex;
+}
+
+.gif {
+  margin: 20px;
+}
+
+input#gifType {
+  margin: 10px;
+}
